@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tharangar
-- 👀 I’m interested in monitory and healthcare related microservice based solutions.
+- 👀 I’m interested in monitory (financial) and healthcare related microservice based solution domain.
 - 🌱 I’m currently learning IBM Appconnect Integration
 - 💞️ I’m looking to collaborate on Spring boot based projects
 - 📫 How to reach me tharanga.rajapaksha@outlook.com
